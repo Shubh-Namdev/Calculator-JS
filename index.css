@@ -1,0 +1,14 @@
+.container{
+    width: 30%;
+    height: 40%;
+    border: 1px solid black;
+}
+
+.input{
+    width: 95.5%;
+}
+
+.button{
+    width: 22.8%;
+    height: 50%;
+}
